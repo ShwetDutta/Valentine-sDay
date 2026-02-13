@@ -365,7 +365,7 @@ const App: React.FC = () => {
             </section>
 
             <footer className="py-16 text-center text-pink-400/20 text-[10px] tracking-[0.3em] uppercase">
-              Dedicated to Hafsa • An Eternal Valentine • 2024
+              Dedicated to Hafsa • An Eternal Valentine • 2026
             </footer>
           </motion.div>
         )}
